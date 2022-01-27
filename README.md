@@ -9,10 +9,12 @@ An investor wants to learn about the weather in Oahu, Hawaii, before committing 
 - The standard deviation in the area's temperature in the month of June is 3.26, and increases to 3.75 in the month of December.
 
 
-June Temperatures
+June Temperatures Summary
+
 ![june_temps](https://user-images.githubusercontent.com/90114686/151399976-5efbec5d-6de1-4908-8e42-92cfea8dc55b.png)
 
-December Temperatures
+December Temperatures Summary
+
 ![dec_temps](https://user-images.githubusercontent.com/90114686/151400014-497ebd56-0d77-477d-8ca0-973078557c48.png)
 
 
